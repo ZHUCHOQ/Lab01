@@ -75,7 +75,8 @@ $ gist REPORT.md
 
 1. Скачайте библиотеку *boost* с помощью утилиты **wget**. Адрес для скачивания `https://sourceforge.net/projects/boost/files/boost/1.69.0/boost_1_69_0.tar.gz`.
 
-![llOW0IIYtoA](C:\Users\fyur1\Desktop\llOW0IIYtoA.jpg)
+![llOW0IIYtoA](https://user-images.githubusercontent.com/84859324/120928568-d4858100-c6ed-11eb-852e-21e1caa27297.jpg)
+
 
 2. Разархивируйте скаченный файл в директорию `~/boost_1_69_0`
 
@@ -85,7 +86,8 @@ $ gist REPORT.md
 
 3. Подсчитайте количество файлов в директории `~/boost_1_69_0` **не включая** вложенные директории.
 
-![OKGX7PV1LVI](C:\Users\fyur1\Desktop\OKGX7PV1LVI.jpg)
+![OKGX7PV1LVI](https://user-images.githubusercontent.com/84859324/120928578-dcddbc00-c6ed-11eb-9206-28ecbf30e66a.jpg)
+
 
 4. Подсчитайте количество файлов в директории `~/boost_1_69_0` **включая** вложенные директории.
 
